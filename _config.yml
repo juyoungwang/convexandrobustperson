@@ -1,16 +1,6 @@
-# Thme Settings
-theme: 			: jekyll-theme-minimal
-minimal_mistakes_skin	: "mint" 
-logo				: /assets/img/logo.png 
-
-# Site Settings
-locale			: "ko-KR"
-title			: Juyoung loves optimization
-name			: Juyoung Wang
-description		: This is Juyoung Wang's personal website! Indeed, it's his first github-based website :)
-
-# Analytics
-analytics		:
-  provider		: "google"
-  google		:
-    tracking_id		: G-Q92D33L5VH
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
