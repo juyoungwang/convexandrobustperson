@@ -5,7 +5,7 @@ layout: default
 
 Hi, my name is Juyoung Wang, and I am currently having a great fortune to study towards my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. Broadly speaking, 
 
-`$$\text{My research interests} \subseteq \text{conv}({Optimization, Statistics, Mathematics})$$` 
+$$\text{My research interests} \subseteq \text{conv}({Optimization, Statistics, Mathematics})$$
 
 My email address is juyoung dot wang AT mail dot utoronto dot ca.
 
