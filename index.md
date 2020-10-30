@@ -11,6 +11,11 @@ My mail address is juyoung dot wang AT mail dot utoronto dot ca.
 *  **Bachelor in Engineering Sciences** (B.Sc.) in Mathematical and Computational Engineering at Pontificia Universidad Catolica de Chile.
 
 # Publications
-You can check list of my publications here, generated thanks to BibBase API.
+Check list of my publications here, generated thanks to BibBase API!
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1aPvqkrKEyWBibny-mdiCPdJgTQJOy5cb&jsonp=1"></script>
 
+# Talks
+* Multi-stage Stochastic Intensity Modulated Radiation Therapy Planning
+	* INFORMS 2020 Annual meeting, Online, Nov 2020
+* Mixed-integer linear programming models for the paint waste management problem
+	* Optimization Days, Montreal, QC, May 2019
