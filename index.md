@@ -3,7 +3,9 @@ layout: default
 ---
 {%- include mathjax.html -%}
 
-Hi, my name is Juyoung Wang, and I am currently having a great fortune to study towards my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. Broadly speaking, 
+Hi, my name is Juyoung Wang, and I am currently having a great fortune to study towards my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. 
+
+Regarding topics that I am interested to investigate, broadly speaking, 
 
 $$\text{My research interests} \subseteq \text{conv}(\{\text{Optimization}, \text{Statistics}, \text{Mathematics}\})$$
 
