@@ -4,7 +4,6 @@ layout: splash
 description: This is Juyoung Wang's personal website :) It's my first time using gh-page. Enjoy!
 show_downloads: false
 google_analytics:
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast"
+theme: jekyll-theme-minimal
 kramdown:
   math_engine: mathjax
