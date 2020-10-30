@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<script type="text/javascript" charset="utf-8" 
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML, 
+https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 Hi, my name is Juyoung Wang, and I am currently having a great fortune to study towards my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. Broadly speaking, 
 
