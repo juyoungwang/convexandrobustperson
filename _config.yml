@@ -5,8 +5,5 @@ description: This is Juyoung Wang's personal website :) It's my first time using
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-github-metadata
+kramdown:
+  math_engine: mathjax
