@@ -1,9 +1,9 @@
 title: Juyoung Wang
 logo: /assets/img/logo.png
 layout: splash
-description: This is Juyoung Wang's personal website :) It's my first time using gh-page. Enjoy!
+description: This is Juyoung Wang's personal website.
 show_downloads: false
-google_analytics:
+google_analytics: G-0LS82TNLJ6
 theme: jekyll-theme-minimal
 kramdown:
   math_engine: mathjax
