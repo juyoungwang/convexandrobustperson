@@ -15,8 +15,14 @@ My email address is juyoung [DoT] wang [AT] mail [dOT] utoronto [Dot] ca.
 *  **Bachelor in Engineering Sciences** (B.Sc.) in Mathematical and Computational Engineering at Pontificia Universidad Catolica de Chile.
 
 # Publications and preprints
-Check list of my publications here, generated thanks to BibBase API!
+Please, check list of my publications here, generated thanks to BibBase API.
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1aPvqkrKEyWBibny-mdiCPdJgTQJOy5cb&jsonp=1"></script>
+
+# Talks
+* Multi-stage Stochastic Intensity Modulated Radiation Therapy Planning
+	* INFORMS 2020 Annual meeting, Online, Nov 2020
+* Mixed-integer linear programming models for the paint waste management problem
+	* Journ\'es de l'Optimisation, Montreal, QC, May 2019
 
 # Work experiences
 * **Scotiabank** (Jul. 2018 - Oct. 2018), Santiago, Chile.
@@ -27,9 +33,4 @@ Check list of my publications here, generated thanks to BibBase API!
 	* **Job description**: Worked as a data science consultant at SII Group, together with digital banking team of Scotiabank, Chile.
 
 
-# Talks
-* Multi-stage Stochastic Intensity Modulated Radiation Therapy Planning
-	* INFORMS 2020 Annual meeting, Online, Nov 2020
-* Mixed-integer linear programming models for the paint waste management problem
-	* Journ\'es de l'Optimisation, Montreal, QC, May 2019
 
