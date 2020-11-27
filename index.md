@@ -9,7 +9,7 @@ Broadly speaking, my research interests lies in the intersection of Optimization
 
 My email address is juyoung [DoT] wang [AT] mail [dOT] utoronto [Dot] ca.
 
-Click the following link to check my CV: <a href="github.com/juyoungwang/convexandrobustperson/files/CV.pdf" target="_blank">PDF.</a>
+Click the following link to check my CV: <a href="juyoungwang.github.io/convexandrobustperson/files/document.pdf" target="_blank">CV.</a>
 
 # Education
 *  **Master of Applied Science** (M.A.Sc.) in Industrial Engineering at University of Toronto.
