@@ -5,7 +5,7 @@ layout: default
 
 Hi, my name is Juyoung Wang, and I am currently having a great fortune to study towards my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. 
 
-Broadly speaking, my research interests lies in the intersection of Optimization, Statistics, Machine learning and Mathematics.
+Broadly speaking, my research interests lie in the intersection of Optimization, Statistics (particular emphasis to statistical learning) and Mathematics.
 
 My email address is juyoung [DoT] wang [AT] mail [dOT] utoronto [Dot] ca.
 
