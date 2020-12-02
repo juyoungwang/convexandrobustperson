@@ -19,6 +19,10 @@ Links: <a href="/convexandrobustperson/files/CV.pdf" target="_blank">[CV]</a>
 Please, check list of my publications here, generated thanks to BibBase API.
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1aPvqkrKEyWBibny-mdiCPdJgTQJOy5cb&jsonp=1"></script>
 
+To access pdf files of online available papers, please click the following link: <a href="https://drive.google.com/drive/folders/1ZcmvbBYm0e52GdHs1SxxXktfcWQRFCvY?usp=sharing" target="_blank">[Google Drive]</a>
+
+
+
 # Talks
 * Multi-stage Stochastic Intensity Modulated Radiation Therapy Planning
 	* INFORMS 2020 Annual meeting, Online, Nov 2020
