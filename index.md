@@ -16,12 +16,10 @@ Links: <a href="/convexandrobustperson/files/CV.pdf" target="_blank">[CV]</a>
 *  **Bachelor in Engineering Sciences** (B.Sc.) in Mathematical and Computational Engineering at Pontificia Universidad Catolica de Chile.
 
 # Publications and preprints
-Please, check list of my publications here, generated thanks to BibBase API.
+Please, check list of my publications here, generated thanks to BibBase API. To access pdf files of my online available papers, please check: <a href="https://drive.google.com/drive/folders/1ZcmvbBYm0e52GdHs1SxxXktfcWQRFCvY?usp=sharing" target="_blank">[Google Drive]</a>
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1aPvqkrKEyWBibny-mdiCPdJgTQJOy5cb&jsonp=1"></script>
 
-To access pdf files of my online available papers, please check: <a href="https://drive.google.com/drive/folders/1ZcmvbBYm0e52GdHs1SxxXktfcWQRFCvY?usp=sharing" target="_blank">[Google Drive]</a>
-
-
+I am currently working on two additional projects where one of them is related to deep learing, while the other one is related to the methodological stochastic optimization and its application. I am hoping to finish them soon.
 
 # Talks
 * Multi-stage Stochastic Intensity Modulated Radiation Therapy Planning
