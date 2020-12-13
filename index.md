@@ -9,6 +9,8 @@ Broadly speaking, my research interests lie in the intersection of Optimization,
 
 My email address is juyoung [DoT] wang [AT] mail [dOT] utoronto [Dot] ca.
 
+Please feel free to speak me in either English, Spanish and Korean. I grew up in both South Korea and Chile.
+
 Links: <a href="/convexandrobustperson/files/CV_Academia.pdf" target="_blank">[CV]</a>
 
 # Education
