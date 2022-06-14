@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-{%- include mathjax.html -%}
+<!-- {%- include mathjax.html -%} -->
+
+
+Hi, my name is Juyoung Wang, and I obtained my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. 
 
 I changed my personal website to [Juyoung Wang](https://rainbow-gnome-b828f3.netlify.app/).
-<!-- 
-Hi, my name is Juyoung Wang, and I am currently having a great fortune to study towards my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. 
 
+<!-- 
 Broadly speaking, my research interests lie in the intersection of Optimization, Statistics (particular emphasis to statistical learning) and Mathematics.
 
 My email address is juyoung [DoT] wang [AT] mail [dOT] utoronto [Dot] ca.
