@@ -3,9 +3,6 @@ layout: default
 ---
 <!-- {%- include mathjax.html -%} -->
 
-
-Hi, my name is Juyoung Wang, and I obtained my Master of Applied of Science degree having [Merve Bodur](https://sites.google.com/site/mervebodr/) and [Mucahit Cevik](https://people.ryerson.ca/mcevik/) as advisors. 
-
 I changed my personal website to [Juyoung Wang](https://rainbow-gnome-b828f3.netlify.app/).
 
 <!-- 
