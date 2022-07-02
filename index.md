@@ -3,7 +3,7 @@ layout: default
 ---
 <!-- {%- include mathjax.html -%} -->
 
-I changed my personal website to [Juyoung Wang](juyoungwang.netlify.app).
+I changed my personal website to [Juyoung Wang](https://juyoungwang.netlify.app).
 
 <!-- 
 Broadly speaking, my research interests lie in the intersection of Optimization, Statistics (particular emphasis to statistical learning) and Mathematics.
